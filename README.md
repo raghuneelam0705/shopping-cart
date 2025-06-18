@@ -1,4 +1,6 @@
-**Built Stack**
+**Stack used**
+
+
 **Frontend**:
 React Js
 Next Js
